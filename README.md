@@ -39,9 +39,10 @@ This command will create a long exposure effect from the video, starting at 10 s
 ### Output Examples
 After running the script, you will find the output images named in the format similar to the following examples:
 
-- `long_exposure_frame__20231229_121001.png`
-- `long_exposure_frame__20231229_121029.png`
-- `long_exposure_frame__20231229_121036.png`
+![alt text](https://github.com/iveskins/photo_utils_longexposure_from_video/blob/main/long_exposure_frame__20231229_121036.png?raw=true)
+![alt text](https://github.com/iveskins/photo_utils_longexposure_from_video/blob/main/long_exposure_frame__20231229_121237.png?raw=true)
+![alt text](https://github.com/iveskins/photo_utils_longexposure_from_video/blob/main/long_exposure_frame__20231229_121222.png?raw=true)
+![alt text](https://github.com/iveskins/photo_utils_longexposure_from_video/blob/main/long_exposure_frame__20231229_121202.png?raw=true)
 
 These files are timestamped to ensure unique naming and easy identification.
 
